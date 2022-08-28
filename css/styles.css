@@ -53,20 +53,16 @@
 #zain {
   margin-bottom: 9px;
   font-weight: bolder;
+
 }
 
-#ore {
-  background-image: url(../img/1140\ hero\ image_0.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-}
-
-  /* background-image: url(../img/hre.jpg);
+ #ore { 
+ 
+  background-image: url(../img/ll.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
-  opacity: 50%; */
+}
 
 #babes{
   font-size: 50px;
@@ -206,4 +202,62 @@ hr{
   height: 2px;
   margin-top: 0px;
   width: 100%;
+}
+#nah{
+  height: 400px;
+  width: 100%;
+ filter: grayscale(100%);
+}
+#seventeen{
+  height: 400px;
+  width: 100%;
+filter: grayscale(100%);
+opacity: 50%;
+margin-top: 10px;
+}
+#eighteen{
+  position: absolute;
+  margin-top: -400px;
+
+  margin-left: 100px;
+  font-weight: bold;
+}
+#foster{
+  font-size: 49px;
+  margin-left: 70px;
+  margin-top: 30px;
+}
+#not{
+  color: blue;
+  font-size: 25px;
+  margin-top: -20px;
+  margin-left: 10px;
+}
+#moo{
+  font-size: 20px;
+}
+#dert{
+  height: 400px;
+  width: 2%;
+}
+#grt{
+  height: 500px;
+  width: 60%;
+  display: flex;
+}
+#uuu{
+  background-color: orchid;
+  height: 500px;
+  width: 40%;
+}
+#okk{
+  height: 500px;
+  width: 60%;
+  display: flex;
+}
+
+#jjj{
+  height: 500px;
+  width: 60%;
+  display: flex;
 }
