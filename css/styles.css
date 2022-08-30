@@ -1,263 +1,121 @@
-.container-fluid {
+#one{
+  background-color: rgb(0, 102, 255);
+  height: 40px;
+  margin-top: -8px;
+}
+#two{
+  margin-left: 1000px;
+  color: white;
+  margin-bottom: 20px;
   height: 90px;
-  width: 100%;
 }
-#imagee {
-   height: 90px;
-  margin-left: 70px;
+#for{
+  height: 450px;
 }
-
-#rubbish {
-  margin-left: -20px;
-  margin-bottom: 5px;
-
+#ewe{
+  margin-top: -8px;
+  height: 80px;
 }
-
-#funmi {
-  margin-left: 20px;
+#tree{
+  margin-left: 60px;
+  height: 80px;
+  
 }
-
-.nav-link {
-  color: blue;
-  margin-top: 50px;
+#gert{
+  height: 300px;
+  width: 80%;
+  margin-left: 120px;
+  margin-top: 100px;
 }
-
-.nav-link:hover {
-  color: blue;
+#bre{
+  height: 40px;
+  width: 10%;
+  border-color: white;
+  margin-top: 30px;
+  margin-left: 50px;
+  background-color: rgb(0, 102, 255);
+  color: white;
 }
-
-
-#stress {
-  margin-left: 150px;
-  margin-bottom: 9px;
-  font-weight: bolder;
-}
-
-#GLOW::after {
-  content: none;
-}
-
-#GLOW {
-  margin-bottom: 9px;
-  font-weight: bolder;
-}
-
-#stress::after {
-  content: none;
-}
-
-#zain::after {
-  content: none;
-}
-
-#zain {
-  margin-bottom: 9px;
-  font-weight: bolder;
+#gre{
+  background-color: rgb(0, 102, 255);
+  height: 80px;
+  display: flex;
 
 }
-
- #ore { 
- 
-  background-image: url(../img/ll.jpg);
+#locke{
+  margin-left: 400px;
+  font-size: 28px;
+  font-weight: 400;
+  color: white;
+}
+#imager{
+  height: 400px;
+  width: 40%;
+  margin-left: 120px;
+  margin-top: 100px;
+}
+#div{
+  display: flex;
+}
+#ripe{
+  height: 400px;
+  width: 40%;
+  margin-left: 50px;
+  margin-top: 100px;
+}
+#second{
+  background-image: url(../img/cocker-spaniel-2785074__340.webp);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 600px;
+  height: 400px;
+  width: 83%;
+  margin-top: 20px;
+  margin-left: 120px;
+  position: absolute;
 }
-
-#babes{
+#life{
   font-size: 50px;
   font-weight: bolder;
-}
-
-#pone {
   color: white;
-  font-size: 40px;
-  margin-left: 250px;
-  padding-top: 120px;
-}
-
-#ptwo {
-  color: white;
-  font-size: 47px;
-  margin-left: 250px;
-  font-weight: 900;
-  margin-bottom: 10px;
-
-}
-#pthree{
-  color: white;
-  margin-left: 250px;
-  font-size: 30px;
-   padding-bottom: 30px;
-}
-#BLOW::after {
-  content: none;
-}
-
-#BLOW {
-  margin-bottom: 9px;
-  font-weight: bolder;
-}
-
-#nini::after {
-  content: none;
-}
-
-#nini {
-  margin-bottom: 9px;
-  font-weight: bolder;
-}
-
-#is::after {
-  content: none;
-}
-
-#is {
-  margin-bottom: 9px;
-  font-weight: bolder;
-  margin-left: 10px;
-}
-#fafa{
-  margin-left: 30px;
-  color: blue;
-  margin-top: 55px;
- 
-}
-#button{
- margin-left: 100px;
- height: 50px;
- width: 100%;
- margin-bottom: 30px;
-}
-#drop{
-  background-color: blue;
-}
-#sign{
-  display: flex;
-  background-color: rgb(0, 132, 255);
-  height: 100px;
-  width: 100%;
-  color: white;
-}
-#blade{
-  margin-left: 100px;
-  margin-top: 10px;
-}
-#up{
-  font-size: 20px;
-}
-#hello{
-  margin-top: 10px;
-  margin-left: 50px;
-}
-/* #SIGN-UP{
-  margin-left: 400px;
-  height: 50px;
-  width: 15%;
-  margin-top: 30px;
-  text-decoration-line: none;
-  padding-left: 20px;
-  background-color: rgb(0, 132, 255);
- font-size: 30px;
-
-} */
-#SIGN-UP{
-  color: white;
-  margin-left: 30px;
- margin-top: 18px;
- border:salmon ;
- border-width: 3px;
- border-color: white;
- border-style: solid;
- border-radius: 10px;
- width: 15%;
- height: 50px;
- background-color:rgb(0, 132, 255) ;
-}
-#up{
-  text-decoration: none;
-  font-size: 20px;
-  color: white;
-
-}
-#in{
-  border-style: none;
-  background-color:rgb(0, 132, 255); ;
-  margin-left: 5px;
-  margin-bottom: 0px;
-}
-
-::placeholder{
-  color: white;
-  font-size: 18px;
-}
-#know{
-  padding-top: 30px;
-  padding-bottom: 0px;
-  margin-left: 40px;
+  margin-left: 200px;
 }
 hr{
-  background-color: white;
-  opacity: 1;
-  height: 2px;
-  margin-top: 0px;
-  width: 100%;
+  border: solid;
+  border-width: 3%;
+  width: 7%;
+  color: rgb(0, 102, 255);
+ opacity: 100;
+ margin-left: 200px;
 }
-#nah{
-  height: 400px;
-  width: 100%;
- filter: grayscale(100%);
+#file{
+  font-size: 50px;
+  font-weight: bolder;
+  color: white;
+  margin-top: -32px;
+  margin-left: 200px;
 }
-#seventeen{
-  height: 400px;
-  width: 100%;
-filter: grayscale(100%);
-opacity: 50%;
-margin-top: 10px;
-}
-#eighteen{
-  position: absolute;
-  margin-top: -400px;
-
-  margin-left: 100px;
-  font-weight: bold;
-}
-#foster{
-  font-size: 49px;
-  margin-left: 70px;
-  margin-top: 30px;
-}
-#not{
-  color: blue;
-  font-size: 25px;
-  margin-top: -20px;
-  margin-left: 10px;
-}
-#moo{
+#pet{
   font-size: 20px;
-}
-#dert{
-  height: 400px;
-  width: 2%;
-}
-#grt{
-  height: 500px;
-  width: 60%;
-  display: flex;
-}
-#uuu{
-  background-color: orchid;
-  height: 500px;
-  width: 40%;
-}
-#okk{
-  height: 500px;
-  width: 60%;
-  display: flex;
-}
+  color: white;
+  margin-left: 200px;
+  font-weight: bolder;
+  margin-top: -20px;
 
-#jjj{
-  height: 500px;
-  width: 60%;
-  display: flex;
+}
+#agg{
+  text-decoration: none;
+  
+}
+#babes{
+  margin-left: 200px;
+  height: 40px;
+  width: 15%;
+}
+#mutu{
+  height: 200px;
+  width: 25%;
+  position: absolute;
+  margin-left: 160px;
+  margin-top: 380px;
+  
 }
